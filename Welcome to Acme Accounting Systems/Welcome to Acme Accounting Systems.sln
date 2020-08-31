@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome to Acme Accounting Systems", "Welcome to Acme Accounting Systems.csproj", "{FE25A6E6-60FA-451C-9924-D7E81155D7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE25A6E6-60FA-451C-9924-D7E81155D7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE25A6E6-60FA-451C-9924-D7E81155D7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE25A6E6-60FA-451C-9924-D7E81155D7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE25A6E6-60FA-451C-9924-D7E81155D7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0323C1C-B2BA-4A0D-801E-1E6063ED5D76}
+	EndGlobalSection
+EndGlobal
