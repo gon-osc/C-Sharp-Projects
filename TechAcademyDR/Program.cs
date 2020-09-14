@@ -25,7 +25,8 @@ namespace TechAcademyDR
 
             Console.WriteLine("Do you need help  with anything? Please answer 'true' or 'false'");
             string userInput = Console.ReadLine();
-            if (userInput == "true")
+            bool userNeedHelp = Convert.ToBoolean(userInput);
+            if (userNeedHelp)
             {
                 Console.WriteLine("Thank you for reaching out to us for help.");
             }
