@@ -22,7 +22,7 @@ namespace BOOLEAN_LOGIC_ASSIGNMENT
             Console.WriteLine("How many speeding tickets do you have??");
             int clientTickets = Convert.ToInt32(Console.ReadLine());
 
-            bool insApproval = clientAge >= 15 && userInput == false && clientTickets <= 3;
+            bool insApproval = clientAge > 15 && userInput == false && clientTickets <= 3;
 
             Console.WriteLine("Were you qualified today?");
             Console.WriteLine(insApproval);
