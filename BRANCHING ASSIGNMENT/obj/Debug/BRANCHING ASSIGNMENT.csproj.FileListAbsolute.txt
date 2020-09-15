@@ -1,0 +1,7 @@
+C:\Users\gonza\source\repos\BRANCHING ASSIGNMENT\obj\Debug\BRANCHING ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\BRANCHING ASSIGNMENT\obj\Debug\BRANCHING ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\BRANCHING ASSIGNMENT\bin\Debug\BRANCHING ASSIGNMENT.exe.config
+C:\Users\gonza\source\repos\BRANCHING ASSIGNMENT\bin\Debug\BRANCHING ASSIGNMENT.exe
+C:\Users\gonza\source\repos\BRANCHING ASSIGNMENT\bin\Debug\BRANCHING ASSIGNMENT.pdb
+C:\Users\gonza\source\repos\BRANCHING ASSIGNMENT\obj\Debug\BRANCHING ASSIGNMENT.exe
+C:\Users\gonza\source\repos\BRANCHING ASSIGNMENT\obj\Debug\BRANCHING ASSIGNMENT.pdb
