@@ -1,0 +1,7 @@
+C:\Users\gonza\source\repos\BOOLEAN LOGIC ASSIGNMENT\obj\Debug\BOOLEAN LOGIC ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\BOOLEAN LOGIC ASSIGNMENT\obj\Debug\BOOLEAN LOGIC ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\BOOLEAN LOGIC ASSIGNMENT\bin\Debug\BOOLEAN LOGIC ASSIGNMENT.exe.config
+C:\Users\gonza\source\repos\BOOLEAN LOGIC ASSIGNMENT\bin\Debug\BOOLEAN LOGIC ASSIGNMENT.exe
+C:\Users\gonza\source\repos\BOOLEAN LOGIC ASSIGNMENT\bin\Debug\BOOLEAN LOGIC ASSIGNMENT.pdb
+C:\Users\gonza\source\repos\BOOLEAN LOGIC ASSIGNMENT\obj\Debug\BOOLEAN LOGIC ASSIGNMENT.exe
+C:\Users\gonza\source\repos\BOOLEAN LOGIC ASSIGNMENT\obj\Debug\BOOLEAN LOGIC ASSIGNMENT.pdb
