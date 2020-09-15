@@ -25,13 +25,16 @@ namespace MATH_AND_COMPARISON_OPERATORS_ASSIGNMENT
             int user2HourlyRate = Convert.ToInt32(Console.ReadLine());
 
             int user1AnnualSalary = user1HourlyRate * user1HoursWorked * 52;
-            Console.WriteLine("Annual salary of Person 1: " + user1AnnualSalary);
+            Console.WriteLine("Annual salary of Person 1:");
+            Console.WriteLine(user1AnnualSalary);
 
             int user2AnnualSalary = user2HourlyRate * user2HoursWorked * 52;
-            Console.WriteLine("Annual salary of Person 2: " + user2AnnualSalary);
+            Console.WriteLine("Annual salary of Person 2:");
+            Console.WriteLine(user2AnnualSalary);
 
             bool annualSalaaryComparison = user1AnnualSalary > user2AnnualSalary;
-            Console.WriteLine("Does Person 1 make more money than Person 2? " + annualSalaaryComparison);
+            Console.WriteLine("Does Person 1 make more money than Person 2?");
+            Console.WriteLine(annualSalaaryComparison);
             Console.ReadLine();
         }
     }
