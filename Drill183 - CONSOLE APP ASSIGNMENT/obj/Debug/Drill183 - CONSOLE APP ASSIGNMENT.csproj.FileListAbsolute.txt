@@ -1,0 +1,7 @@
+C:\Users\gonza\source\repos\Drill183 - CONSOLE APP ASSIGNMENT\bin\Debug\Drill183 - CONSOLE APP ASSIGNMENT.exe.config
+C:\Users\gonza\source\repos\Drill183 - CONSOLE APP ASSIGNMENT\bin\Debug\Drill183 - CONSOLE APP ASSIGNMENT.exe
+C:\Users\gonza\source\repos\Drill183 - CONSOLE APP ASSIGNMENT\bin\Debug\Drill183 - CONSOLE APP ASSIGNMENT.pdb
+C:\Users\gonza\source\repos\Drill183 - CONSOLE APP ASSIGNMENT\obj\Debug\Drill183 - CONSOLE APP ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\Drill183 - CONSOLE APP ASSIGNMENT\obj\Debug\Drill183 - CONSOLE APP ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Drill183 - CONSOLE APP ASSIGNMENT\obj\Debug\Drill183 - CONSOLE APP ASSIGNMENT.exe
+C:\Users\gonza\source\repos\Drill183 - CONSOLE APP ASSIGNMENT\obj\Debug\Drill183 - CONSOLE APP ASSIGNMENT.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drill183 - CONSOLE APP ASSIGNMENT", "Drill183 - CONSOLE APP ASSIGNMENT.csproj", "{4D154151-8348-49CC-A07A-754548C60B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D154151-8348-49CC-A07A-754548C60B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D154151-8348-49CC-A07A-754548C60B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D154151-8348-49CC-A07A-754548C60B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D154151-8348-49CC-A07A-754548C60B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEF46A94-D721-473B-8F9D-B9B24637F73D}
+	EndGlobalSection
+EndGlobal
