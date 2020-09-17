@@ -10,6 +10,12 @@ namespace Drill186___StringAssigment
     {
         static void Main(string[] args)
         {
+            string phrase1 = "Welcome To";
+            string phrase2 = " 2020's";
+            string phrase3 = " Athletic Club Championships!";
+
+            Console.WriteLine(phrase1 + phrase2 + phrase3);
+
             Console.WriteLine("What is you first name?");
             string firstName = Console.ReadLine();
 
