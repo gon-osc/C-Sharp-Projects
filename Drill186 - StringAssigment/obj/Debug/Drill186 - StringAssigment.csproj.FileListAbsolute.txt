@@ -1,0 +1,7 @@
+C:\Users\gonza\source\repos\Drill186 - StringAssigment\bin\Debug\Drill186 - StringAssigment.exe.config
+C:\Users\gonza\source\repos\Drill186 - StringAssigment\bin\Debug\Drill186 - StringAssigment.exe
+C:\Users\gonza\source\repos\Drill186 - StringAssigment\bin\Debug\Drill186 - StringAssigment.pdb
+C:\Users\gonza\source\repos\Drill186 - StringAssigment\obj\Debug\Drill186 - StringAssigment.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Drill186 - StringAssigment\obj\Debug\Drill186 - StringAssigment.exe
+C:\Users\gonza\source\repos\Drill186 - StringAssigment\obj\Debug\Drill186 - StringAssigment.pdb
+C:\Users\gonza\source\repos\Drill186 - StringAssigment\obj\Debug\Drill186 - StringAssigment.csprojAssemblyReference.cache
