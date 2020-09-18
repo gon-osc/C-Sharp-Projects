@@ -1,0 +1,7 @@
+C:\Users\gonza\source\repos\Drill191 - Array-List Assigment\bin\Debug\Drill191 - Array-List Assigment.exe.config
+C:\Users\gonza\source\repos\Drill191 - Array-List Assigment\bin\Debug\Drill191 - Array-List Assigment.exe
+C:\Users\gonza\source\repos\Drill191 - Array-List Assigment\bin\Debug\Drill191 - Array-List Assigment.pdb
+C:\Users\gonza\source\repos\Drill191 - Array-List Assigment\obj\Debug\Drill191 - Array-List Assigment.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\Drill191 - Array-List Assigment\obj\Debug\Drill191 - Array-List Assigment.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Drill191 - Array-List Assigment\obj\Debug\Drill191 - Array-List Assigment.exe
+C:\Users\gonza\source\repos\Drill191 - Array-List Assigment\obj\Debug\Drill191 - Array-List Assigment.pdb
