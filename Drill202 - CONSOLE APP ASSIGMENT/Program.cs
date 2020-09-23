@@ -33,7 +33,7 @@ namespace Drill202___CONSOLE_APP_ASSIGMENT
 
             //while (nmbr < 10)
             //{
-
+            //    nmbr = 3; // <-- I had taken this out. 
             //    Console.WriteLine("i = " + nmbr);
             //    nmbr++;
             //}
@@ -85,40 +85,44 @@ namespace Drill202___CONSOLE_APP_ASSIGMENT
 
             //CONSOLE APP ASSIGNMENT PART FOUR:
 
-            //List<string> firstStates = new List<string>()
-            //{
-            //    "delaware",
-            //    "pennsylvania",
-            //    "new jersey",
-            //    "georgia",
-            //    "connecticut",
-            //    "massachusetts",
-            //    "maryland",
-            //    "south carolina",
-            //    "new hampshire",
-            //    "virginia",
-            //    "new york",
-            //    "north carolina",
-            //    "rhode island",
-            //};
+            List<string> firstStates = new List<string>()
+            {
+                "delaware",
+                "pennsylvania",
+                "new jersey",
+                "georgia",
+                "connecticut",
+                "massachusetts",
+                "maryland",
+                "south carolina",
+                "new hampshire",
+                "virginia",
+                "new york",
+                "north carolina",
+                "rhode island",
+            };
 
+            
+            while (true)
+            {
+                Console.WriteLine("Type in a name of a state to see if it was part of the original 13 colonies.");
+                string userState = Console.ReadLine();
 
-            //Console.WriteLine("Type in a name of a state to see if it was part of the original 13 colonies.");
-            //string userState = Console.ReadLine();
+                int index = firstStates.FindIndex(a => a.Contains(userState));
 
-            //int index = firstStates.FindIndex(a => a.Contains(userState));
+                if (firstStates.Contains(userState) == true)
+                {
+                    Console.WriteLine("Correct that state was part of the original 13 colonies.");
+                    Console.WriteLine("That state is number " + index + " of our list of states.");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Item does not exist!");
+                }
 
-            //if (firstStates.Contains(userState) == true)
-            //{
-            //    Console.WriteLine("Correct that state was part of the original 13 colonies.");
-            //    Console.WriteLine("That state is number " + index + " of our list of states.");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Item does not exist!");
-            //}
+            }
 
-            //Console.ReadLine();
 
             //CONSOLE APP ASSIGNMENT PART FIVE:
 
@@ -168,27 +172,27 @@ namespace Drill202___CONSOLE_APP_ASSIGMENT
 
             //CONSOLE APP ASSIGNMENT PART SIX:
 
-            List<string> popGames = new List<string>()
-            {
-                "Monopoly",
-                "Clue",
-                "LIFE",
-                "Connect Four",
-                "Operation",
-                "Jenga",
-                "LIFE",
-                "SORRY",
-            };
+            //List<string> popGames = new List<string>()
+            //{
+            //    "Monopoly",
+            //    "Clue",
+            //    "LIFE",
+            //    "Connect Four",
+            //    "Operation",
+            //    "Jenga",
+            //    "LIFE",
+            //    "SORRY",
+            //};
 
-            var dupGames = popGames.GroupBy(x => x)
-              .Where(g => g.Count() > 1)
-              .Select(y => y.Key)
-              .ToList();
+            //var dupGames = popGames.GroupBy(x => x)
+            //  .Where(g => g.Count() > 1)
+            //  .Select(y => y.Key)
+            //  .ToList();
 
-            foreach (var duplicate in dupGames)
-            {
-                Console.WriteLine("It seems " + duplicate + " appears more than once in this list");
-            }
+            //foreach (var duplicate in dupGames)
+            //{
+            //    Console.WriteLine("It seems " + duplicate + " appears more than once in this list");
+            //}
 
             Console.ReadLine();
         }
