@@ -1,0 +1,7 @@
+C:\Users\gonza\source\repos\Drill207 - ASSIGNMENT\bin\Debug\Drill207 - ASSIGNMENT.exe.config
+C:\Users\gonza\source\repos\Drill207 - ASSIGNMENT\bin\Debug\Drill207 - ASSIGNMENT.exe
+C:\Users\gonza\source\repos\Drill207 - ASSIGNMENT\bin\Debug\Drill207 - ASSIGNMENT.pdb
+C:\Users\gonza\source\repos\Drill207 - ASSIGNMENT\obj\Debug\Drill207 - ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\Drill207 - ASSIGNMENT\obj\Debug\Drill207 - ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Drill207 - ASSIGNMENT\obj\Debug\Drill207 - ASSIGNMENT.exe
+C:\Users\gonza\source\repos\Drill207 - ASSIGNMENT\obj\Debug\Drill207 - ASSIGNMENT.pdb
