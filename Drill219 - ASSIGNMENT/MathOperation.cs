@@ -8,29 +8,21 @@ namespace Drill219___ASSIGNMENT
 {
     class MathOperation
     {
-        public int mult(int x, int y)
+        public int mathOperation(int a, int b)
         {
-            int a = x;
-            int b = y;
-            int result = a * b;
-
-            return result;
+            return a * b;   
         }
-        public double Sub(double m, double n)
+        public int mathOperation(decimal c, decimal d)
         {
-            double c = m;
-            double d = n;
-            double result = c - d;
-
-            return result;
+            int e = decimal.ToInt32(c);
+            int f = decimal.ToInt32(d);
+            return  f - e;            
         }
-        public int Add(int w, int z)
-        {
-            int num1 = w;
-            int num2 = z;
-            int add = num1 + num2;
-
-            return add;
+        public int mathOperation(string g, string h)
+        {            
+            int num1 = Int32.Parse(g);
+            int num2 = Int32.Parse(h);       
+            return num1 + num2;
         }
     }
 }
