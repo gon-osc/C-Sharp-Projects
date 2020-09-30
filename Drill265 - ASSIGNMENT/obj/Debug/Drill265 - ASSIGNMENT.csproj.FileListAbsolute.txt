@@ -1,0 +1,7 @@
+C:\Users\gonza\source\repos\Drill265 - ASSIGNMENT\bin\Debug\Drill265 - ASSIGNMENT.exe.config
+C:\Users\gonza\source\repos\Drill265 - ASSIGNMENT\bin\Debug\Drill265 - ASSIGNMENT.exe
+C:\Users\gonza\source\repos\Drill265 - ASSIGNMENT\bin\Debug\Drill265 - ASSIGNMENT.pdb
+C:\Users\gonza\source\repos\Drill265 - ASSIGNMENT\obj\Debug\Drill265 - ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\Drill265 - ASSIGNMENT\obj\Debug\Drill265 - ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Drill265 - ASSIGNMENT\obj\Debug\Drill265 - ASSIGNMENT.exe
+C:\Users\gonza\source\repos\Drill265 - ASSIGNMENT\obj\Debug\Drill265 - ASSIGNMENT.pdb
