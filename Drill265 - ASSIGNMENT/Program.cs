@@ -38,6 +38,14 @@ namespace Drill265___ASSIGNMENT
             Console.ReadLine();
 
 
+            List<Employee> dupemp2 = employees.Where(x => x.FName == "Joe").ToList();
+            foreach (Employee dupemployee2 in dupemp2)
+            {
+                Console.WriteLine(dupemployee2.FName + " " + dupemployee2.LName + " " + dupemployee2.Id);
+            }
+            Console.ReadLine();
+
+
             List<Employee> greaterEmp = employees.Where(x => x.Id > 5).ToList();
 
             foreach (Employee employee2 in greaterEmp)
