@@ -35,6 +35,8 @@ namespace Drill265___ASSIGNMENT
             {
                 Console.WriteLine(employee1.FName +" "+ employee1.LName +" "+employee1.Id);
             }
+            Console.ReadLine();
+
 
             List<Employee> greaterEmp = employees.Where(x => x.Id > 5).ToList();
 
