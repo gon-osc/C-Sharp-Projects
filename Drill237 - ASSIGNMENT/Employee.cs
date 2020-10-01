@@ -10,8 +10,7 @@ namespace Drill237___ASSIGNMENT
     {
         public override void SayName()
         {
-            Console.WriteLine("Welcome");
-            base.SayName();
+            Console.WriteLine(firstName + " " + lastName);
         }
     }
 }

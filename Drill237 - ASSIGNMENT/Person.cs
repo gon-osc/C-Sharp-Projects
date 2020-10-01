@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace Drill237___ASSIGNMENT
 {
-    class Person
+    abstract class Person
     {
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public virtual void SayName()
-        {
-            Console.WriteLine(firstName +" "+  lastName);
-        }
+        public abstract void SayName();
     }
 }
