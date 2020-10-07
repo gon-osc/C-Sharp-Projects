@@ -17,8 +17,10 @@ namespace Drill_303___ASSIGNMENT
 
             Console.WriteLine("{0} has evolved much since their first appearance in the year {1}. The current version of C# is 9.0.", programName, releaseYear);
 
-
-            ConstructorChain obj = new ConstructorChain(26, "James");
+            Console.WriteLine("First construct!");
+            ConstructorChain a = new ConstructorChain(22);
+            Console.WriteLine("Chain construct!");
+            ConstructorChain b = new ConstructorChain(26 , "Daniel");
 
             Console.ReadLine();
         }

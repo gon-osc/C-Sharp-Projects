@@ -14,12 +14,16 @@ namespace Drill_303___ASSIGNMENT
         public ConstructorChain(int studentAge)
         {
             this.studentAge = studentAge;
-            Console.WriteLine("" + studentAge);
+            Console.WriteLine("Creating a new record for a new student, using the student age {0}", studentAge);
         }
-        public ConstructorChain(int studentAge, string studentName): this(studentAge)
+        public ConstructorChain(int studentAge, string studentName)
         {
             this.studentName = studentName;
-            Console.WriteLine("" + studentName);
+            this.studentAge = studentAge;
+            Console.WriteLine("Creating a new record for a new student, using the Student Name: {0} and Student Age: {1}", studentName, studentAge);
         }
+
+
+
     }
 }
