@@ -1,0 +1,32 @@
+﻿@using CarInsurance.ViewModels
+@model List<Quotesvm>
+
+<div class="row no-gutters m-3">
+  <div class="card col-sm-12 col-md-12 col-lg-6 mx-auto shadow">
+    <div class="card-header text-center">
+      <h5 class="m-0">Issued Quotes</h5>
+    </div>
+    <div class="card-body">
+      @foreach (var IssQuotes in Model)
+      {
+        {
+          <input type="hidden" name="Id" value="@IssQuotes.Id" />
+          <div class="row mb-3">
+            <div class="col-2">
+              @IssQuotes.FirstName
+            </div>
+            <div class="col">
+              @IssQuotes.LastName
+            </div>
+            <div class="col-4">
+              @IssQuotes.EmailAddress
+            </div>
+            <div class="col">
+              @IssQuotes.Quote.ToString("0.#####")
+            </div>
+          </div>
+        }
+      }
+    </div>
+  </div>
+</div>
