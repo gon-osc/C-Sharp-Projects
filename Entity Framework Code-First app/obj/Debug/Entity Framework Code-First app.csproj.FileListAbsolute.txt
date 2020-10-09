@@ -1,0 +1,12 @@
+C:\Users\gonza\source\repos\Entity Framework Code-First app\bin\Debug\Entity Framework Code-First app.exe.config
+C:\Users\gonza\source\repos\Entity Framework Code-First app\bin\Debug\Entity Framework Code-First app.exe
+C:\Users\gonza\source\repos\Entity Framework Code-First app\bin\Debug\Entity Framework Code-First app.pdb
+C:\Users\gonza\source\repos\Entity Framework Code-First app\bin\Debug\EntityFramework.dll
+C:\Users\gonza\source\repos\Entity Framework Code-First app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gonza\source\repos\Entity Framework Code-First app\bin\Debug\EntityFramework.xml
+C:\Users\gonza\source\repos\Entity Framework Code-First app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gonza\source\repos\Entity Framework Code-First app\obj\Debug\Entity Framework Code-First app.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\Entity Framework Code-First app\obj\Debug\Entity Framework Code-First app.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Entity Framework Code-First app\obj\Debug\Entity Framework Code-First app.csproj.CopyComplete
+C:\Users\gonza\source\repos\Entity Framework Code-First app\obj\Debug\Entity Framework Code-First app.exe
+C:\Users\gonza\source\repos\Entity Framework Code-First app\obj\Debug\Entity Framework Code-First app.pdb
