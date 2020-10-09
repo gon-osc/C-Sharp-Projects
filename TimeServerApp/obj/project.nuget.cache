@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QPghcuiSBCoW/yEvtpz7Lw438sZK8intvIePZ+LPKpSeJFgFrzvdF0T+Zr7N6X5BJUe4kZycbYZSyB+s1ttF/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gonza\\source\\repos\\TimeServerApp\\TimeServerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
